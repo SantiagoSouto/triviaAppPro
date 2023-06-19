@@ -46,7 +46,7 @@ const App = () => {
 
   return (
     <div style={styles.container}>
-      <h1 style={styles.header}>Trivia App</h1>
+      <h1 style={styles.header}>Trivia Night</h1>
       <div style={styles.navbar}>
         {categoryOptions.map((category, index) => (
           <span
@@ -81,10 +81,14 @@ const styles = {
     display: 'flex',
     flexDirection: 'column',
     alignItems: 'center',
-    fontFamily: 'Arial, sans-serif', // Example font family
+    backgroundColor: '#000',
+    color: '#fff',
+    width: '100%',
+    height: '100vh',
+    background: 'url(./background.jpg) center/cover', 
   },
   header: {
-    marginBottom: '16px',
+    marginBottom: '5%',
   },
   navbar: {
     display: 'flex',

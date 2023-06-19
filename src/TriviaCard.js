@@ -26,11 +26,14 @@ const TriviaCard = ({ question, options, correctOption, onNext }) => {
 
 const styles = {
     card: {
-      border: '1px solid #ccc',
-      borderRadius: '6px',
+      color: 'black',
+      display: 'flex',
+      flexDirection: 'column',
+      alignItems: 'center',
+      backgroundColor: '#ffffff',
       padding: '16px',
-      marginBottom: '16px',
-      backgroundColor: '#f5f5f5',
+      borderRadius: '8px',
+      boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
       width: '50vw'
     },
     question: {
@@ -42,8 +45,11 @@ const styles = {
       paddingLeft: '0',
     },
     option: {
-      cursor: 'pointer',
       marginBottom: '8px',
+      padding: '8px 16px',
+      borderRadius: '4px',
+      cursor: 'pointer',
+      backgroundColor: '#f5f5f5',
     },
     icon: {
       marginRight: '8px',
@@ -53,16 +59,11 @@ const styles = {
       alignItems: 'center',
     },
     nextButton: {
-      backgroundColor: '#4caf50',
-      color: 'white',
-      border: 'none',
-      padding: '10px 20px',
-      textAlign: 'center',
-      textDecoration: 'none',
-      display: 'inline-block',
-      fontSize: '16px',
-      cursor: 'pointer',
+      padding: '8px 16px',
       borderRadius: '4px',
+      cursor: 'pointer',
+      backgroundColor: '#333',
+      color: '#ffffff',
     }
   };
 
