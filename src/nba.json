@@ -1,0 +1,110 @@
+[
+    {
+      "question": "NBA significa …",
+      "options": ["National Basketball Association", "National Basketball Alliance", "National Basket Association"],
+      "correctOption": "National Basketball Association",
+      "category": "NBA"
+    },
+    {
+      "question": "Los Angeles ___, Chicago ___, Indiana ___",
+      "options": ["Lakers/Bulls/Pacers", "Bulls/Jazz/Kings", "Hawks/Wizards/Raptors"],
+      "correctOption": "Lakers/Bulls/Pacers",
+      "category": "NBA"
+    },
+    {
+      "question": "El 20 de abril de 1986, Michael Jordan, de los Chicago Bulls, anotó __ puntos en un partido de playoffs de la NBA contra los Boston Celtics.",
+      "options": ["63", "69", "56"],
+      "correctOption": "63",
+      "category": "NBA"
+    },
+    {
+      "question": "¿A qué instituto asistió Kobe Bryant?",
+      "options": ["Lower Merion High School", "Emsley A. Laney High School", "Sierra Canyon High School"],
+      "correctOption": "Lower Merion High School",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Qué equipo ganó las finales de la NBA 2020?",
+      "options": ["Los Angeles Lakers", "Toronto Raptors", "Miami Heat"],
+      "correctOption": "Los Angeles Lakers",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Cuántos anillos tiene Michael Jordan?",
+      "options": ["6", "5", "7"],
+      "correctOption": "6",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Cuál de los siguientes jugadores tiene más anillos en la NBA?",
+      "options": ["Bill Russell", "Michael Jordan", "Kobe Bryant"],
+      "correctOption": "Bill Russell",
+      "category": "NBA"
+    },
+    {
+      "question": "Los playoffs de la NBA son un torneo eliminatorio ___ que se celebra anualmente tras la temporada regular para determinar el campeón de la liga",
+      "options": ["al mejor de 7", "al mejor de 5", "al mejor de 3"],
+      "correctOption": "al mejor de 7",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Cuánto mide Michael Jordan? (elige el más cercano)",
+      "options": ["6'6\" / 198 cm", "6'7\" / 200 cm", "6'3\" / 191 cm"],
+      "correctOption": "6'6\" / 198 cm",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Cuántas divisiones tiene la NBA?",
+      "options": ["6", "30", "8"],
+      "correctOption": "6",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Qué equipo ganó las finales de la NBA de 1984?",
+      "options": ["Boston Celtics", "Los Angeles Lakers", "Golden State Warriors"],
+      "correctOption": "Boston Celtics",
+      "category": "NBA"
+    },
+    {
+      "question": "Entre 1957 y 1969 los Boston Celtics ganarían 11 anillos. ¿Qué otros 2 equipos fueron capaces de hacerse con el título durante ese período?",
+      "options": ["St. Louis Hawks y Philadelphia 76ers", "Los Angeles Lakers y St. Louis Hawks", "Philadelphia 76ers y Los Angeles Lakers"],
+      "correctOption": "St. Louis Hawks y Philadelphia 76ers",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Cómo se llamaba el primer comisionado de la NBA?",
+      "options": ["Maurice Podoloff", "David Stern", "Larry O'Brien"],
+      "correctOption": "Maurice Podoloff",
+      "category": "NBA"
+    },
+    {
+      "question": "Los primeros “Celtics”, que luego serían denominados “Original Celtics” y que son en cierto modo padres de los actuales, ¿a qué ciudad pertenecían?",
+      "options": ["New York", "Boston", "Philadelphia"],
+      "correctOption": "New York",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Qué jugador ha sido MVP de las finales sin que su equipo haya ganado las mismas NBA?",
+      "options": ["Jerry West", "LeBron James", "Julius Erving"],
+      "correctOption": "Jerry West",
+      "category": "NBA"
+    },
+    {
+      "question": "En 1946 arrancó lo que hoy conocemos como NBA. ¿Con qué siglas y nombre?",
+      "options": ["BAA (Basketball Association of America)", "NBL (National Basketball League)", "ABA (American Basketball Association)"],
+      "correctOption": "BAA (Basketball Association of America)",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Contra quién perdieron los Cleveland Cavaliers en la primera final de la NBA de Lebron James?",
+      "options": ["San Antonio Spurs", "Los Angeles Lakers", "Houston Rockets"],
+      "correctOption": "San Antonio Spurs",
+      "category": "NBA"
+    },
+    {
+      "question": "¿Con qué equipo se retiró oficialmente Shaquille O'Neal?",
+      "options": ["Boston Celtics", "Miami Heat", "Los Angeles Lakers"],
+      "correctOption": "Boston Celtics",
+      "category": "NBA"
+    }
+]

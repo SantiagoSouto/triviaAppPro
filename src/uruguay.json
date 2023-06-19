@@ -1,0 +1,117 @@
+[
+    {
+      "question": "¿Cuál es la capital de Uruguay?",
+      "options": ["Montevideo", "Cordoba", "Asuncion"],
+      "correctOption": "Montevideo",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Entre qué dos países se encuentra Uruguay?",
+      "options": ["Argentina y Brasil", "Paraguay y Chile", "Chile y Argentina"],
+      "correctOption": "Argentina y Brasil",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "El punto más alto de Uruguay es el Cerro Catedral. ¿Qué altura tiene este punto?",
+      "options": ["514 metros", "1514 metros", "2514 metros"],
+      "correctOption": "514 metros",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Cuál es el idioma principal en Uruguay?",
+      "options": ["Español", "Portugués", "Inglés"],
+      "correctOption": "Español",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "Uruguay ganó dos veces el Mundial de Fútbol. ¿Cuándo ocurrió esto?",
+      "options": ["1930 y 1950", "1934 y 1954", "1930 y 1954"],
+      "correctOption": "1930 y 1950",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Qué símbolo puede encontrar en el ángulo superior izquierdo de la bandera de Uruguay?",
+      "options": ["Un sol amarillo con rostro humano", "Solo un sol amarillo", "Nada de nada, la bandera solo tiene franjas horizontales azules y blancas"],
+      "correctOption": "Un sol amarillo con rostro humano",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Cuál de estas tres ciudades está más al norte de Uruguay?",
+      "options": ["Artigas", "Melo", "Colonia"],
+      "correctOption": "Artigas",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Cuál es el nombre de un violento movimiento de guerrilla urbana marxista de Uruguay?",
+      "options": ["Tupamaros", "Gringos", "Gauchos"],
+      "correctOption": "Tupamaros",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Cuál de estos cuatro NO es un peligro natural en Uruguay?",
+      "options": ["Terremotos", "Sequías", "Inundaciones"],
+      "correctOption": "Terremotos",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿De qué país se independizó Uruguay el 25 de agosto de 1825?",
+      "options": ["Brasil", "Portugal", "España"],
+      "correctOption": "Brasil",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Quiénes eran los habitantes originales de la zona que hoy es Uruguay?",
+      "options": ["Indios de la tribu Charrúas", "Portugueses", "Polinesios"],
+      "correctOption": "Indios de la tribu Charrúas",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Qué distinción ostenta el himno nacional de Uruguay?",
+      "options": ["Es el de mayor duración", "Es una adaptación de Shakespeare", "No está en la lengua oficial"],
+      "correctOption": "Es el de mayor duración",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "En 1811, Uruguay se rebeló con éxito contra España, pero ¿qué otro país le anexionó la provincia de Cisplatina?",
+      "options": ["Brasil", "Argentina", "Paraguay"],
+      "correctOption": "Brasil",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "Aunque Uruguay no tiene una religión oficial, la mayoría de la población se describe a sí misma como una de estas religiones en una encuesta realizada en 2008.",
+      "options": ["Católica Romana", "Atea", "Judía"],
+      "correctOption": "Católica Romana",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "Una de las comidas más populares en Uruguay es el chivito, que es un bocadillo basado en ¿qué producto?",
+      "options": ["Carne vacuna", "Pollo", "Cerdo"],
+      "correctOption": "Carne vacuna",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "Una bebida tradicional en Uruguay es el mate. ¿Qué tipo de bebida es?",
+      "options": ["Té herbal", "Cerveza", "Vino"],
+      "correctOption": "Té herbal",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "¿Cuál es la moneda oficial de Uruguay?",
+      "options": ["Peso", "Real", "Dólar"],
+      "correctOption": "Peso",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "Uruguay toma su nombre del río Uruguay. El nombre procede de la lengua indígena guaraní, que hace referencia a ¿qué criaturas viven allí?",
+      "options": ["Pájaros pintados", "Peces peligrosos", "Largos cocodrilos"],
+      "correctOption": "Pájaros pintados",
+      "category": "Historia contemporanea del Uruguay"
+    },
+    {
+      "question": "El puerto de Fray Bentos se encuentra en la frontera occidental de Uruguay con Argentina. A finales del siglo XIX, una empresa establecida allí comenzó a exportar ¿cuál de estos productos, con la marca \"Fray Bentos\"?",
+      "options": ["Carne en conserva", "Fruta", "Guisantes"],
+      "correctOption": "Carne en conserva",
+      "category": "Historia contemporanea del Uruguay"
+    }
+]
+  

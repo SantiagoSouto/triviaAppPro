@@ -1,0 +1,123 @@
+[
+    {
+      "question": "Aretha Franklin grabó \"Respect\" en 1967. ¿Quién cantó originalmente esta canción?",
+      "options": ["Otis Redding", "Ray Charles", "Dionne Warwick"],
+      "correctOption": "Otis Redding",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Qué popular artista grabó \"Papa's Got a Brand New Bag\" en 1965?",
+      "options": ["James Brown", "Carole King", "Jimi Hendrix"],
+      "correctOption": "James Brown",
+      "category": "Musica"
+    },
+    {
+      "question": "Los Beatles grabaron una nueva versión de \"Long Tall Sally\" en 1964. ¿Quién grabó la canción original en 1956?",
+      "options": ["Little Richard", "Buddy Holly", "Chuck Berry"],
+      "correctOption": "Little Richard",
+      "category": "Musica"
+    },
+    {
+      "question": "Esta increíble cantautora de los años 60 murió de una sobredosis de drogas justo en el apogeo de su carrera.",
+      "options": ["Janis Joplin", "Carole King", "Aretha Franklin"],
+      "correctOption": "Janis Joplin",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Quién era el cantante de Bad Company?",
+      "options": ["Paul Rodgers", "Johhny Rotten", "Peter Reed"],
+      "correctOption": "Paul Rodgers",
+      "category": "Musica"
+    },
+    {
+      "question": "Este grupo tuvo un gran éxito con \"Suite: Judy Blue Eyes\".",
+      "options": ["Crosby, Stills and Nash", "The Police", "Alabama"],
+      "correctOption": "Crosby, Stills and Nash",
+      "category": "Musica"
+    },
+    {
+      "question": "Esta señora tuvo un éxito con \"Cumbres Borrascosas\".",
+      "options": ["Kate Bush", "Melanie", "Celine Dion"],
+      "correctOption": "Kate Bush",
+      "category": "Musica"
+    },
+    {
+      "question": "La canción \"Ebony and Ivory\" fue una colaboración entre Paul McCartney y ¿qué otro gran compositor?",
+      "options": ["Stevie Wonder", "Michael Jackson", "Prince"],
+      "correctOption": "Stevie Wonder",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Quién cantó \"Too much love will kill you\" durante el concierto homenaje a Freddie Mercury?",
+      "options": ["Brian May", "Bryan Adams", "David Bowie"],
+      "correctOption": "Brian May",
+      "category": "Musica"
+    },
+    {
+      "question": "Una de las famosas canciones de R.E.M. se interpretaba con canto gregoriano. ¿Cuál era?",
+      "options": ["Losing my Religion", "Daysleeper", "Everybody Hurts"],
+      "correctOption": "Losing my Religion",
+      "category": "Musica"
+    },
+    {
+      "question": "\"Where the Wild Roses Grow\" fue un éxito de Nick Cave y ¿quién?",
+      "options": ["Kylie Minogue", "Michael Jackson", "Celine Dion"],
+      "correctOption": "Kylie Minogue",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Cuál de las siguientes canciones NO es interpretada por Oasis?",
+      "options": ["Wherever I May Roam", "Sunday Morning Call", "Don't go Away"],
+      "correctOption": "Wherever I May Roam",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Cuál de las siguientes bandas publicó el álbum \"Crazy World\"?",
+      "options": ["Scorpions", "Pearl Jam", "Red Hot Chili Peppers"],
+      "correctOption": "Scorpions",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Quién canta la canción \"Seven Seconds\" con Neneh Cherry?",
+      "options": ["Youssou N'Dour", "Eric Clapton", "Bono"],
+      "correctOption": "Youssou N'Dour",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Cuál de las siguientes canciones no interpreta el artista que canta \"Born in the U.S.A.\"?",
+      "options": ["Layla", "Secret Garden", "Born to Run"],
+      "correctOption": "Layla",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Qué grupo de Country fundó Chris Hillman años después de ser miembro del grupo de Rock The Byrds?",
+      "options": ["The Desert Rose Band", "Alabama", "Exile"],
+      "correctOption": "The Desert Rose Band",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Qué grupo pasó de ser un grupo de música disco a tener éxitos de música country como \"Woke Up In Love\" y \"Give Me One More Chance\"?",
+      "options": ["Exile", "The Beegees", "The Trampps"],
+      "correctOption": "Exile",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Quién era \"el Beatle silencioso\"?",
+      "options": ["George", "Paul", "Ringo"],
+      "correctOption": "George",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Quién empezó a llamarse a sí misma \"Mimi\"?",
+      "options": ["Mariah Carey", "Madonna", "Missy Elliot"],
+      "correctOption": "Mariah Carey",
+      "category": "Musica"
+    },
+    {
+      "question": "¿Cuál de los siguientes podría llamarse \"Diamond Dave\"?",
+      "options": ["David Lee Roth", "Davy Jones", "David Bowie"],
+      "correctOption": "David Lee Roth",
+      "category": "Musica"
+    }
+  ]
+  

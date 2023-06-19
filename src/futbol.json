@@ -1,0 +1,116 @@
+[
+    {
+        "question": "¿Cuál de estas selecciones ha ganado más copas mundiales de las tres?",
+        "options": ["Italia","Uruguay","Inglaterra"],
+        "correctOption": "Italia",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Qué equipo nunca ganó una Copa América?",
+        "options": ["Jamaica","Colombia","Bolivia"],
+        "correctOption": "Jamaica",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Quién es el cuadro con más Copas Libertadores de América?",
+        "options": ["Independiente de Avellaneda","Fluminense de Rio de Janeiro","Peñarol de Montevideo"],
+        "correctOption": "Independiente de Avellaneda",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Quién es el máximo goleador en Mundiales?",
+        "options": ["Klose (Alemania)","Pele (Brasil)","Ronaldo (Brasil)"],
+        "correctOption": "Klose (Alemania)",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Quién es el máximo goleador en la historia de la Copa Libertadores?",
+        "options": ["Alberto Spencer (Ecuador)","Fernando Morena (Uruguay)","Diego Maradona (Argentina)"],
+        "correctOption": "Alberto Spencer (Ecuador)",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Cuál de estas situaciones NO es tiro indirecto dentro del área del equipo defensor?",
+        "options": ["Simulacion de falta","El arquero toma la pelota en sus manos cuando se la pasa uno de su equipo","Falta tecnica del equipo defensor"],
+        "correctOption": "El arquero toma la pelota en sus manos cuando se la pasa uno de su equipo",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿En cuál de estos Campeonatos juegan equipos europeos?",
+        "options": ["Supercopa UEFA", "Copa de Naciones", "Copa Libertadores"],
+        "correctOption": "Supercopa UEFA",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Cuántos equipos participan en un Mundial?",
+        "options": ["32","20","16"],
+        "correctOption": "32",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Cuál es el equivalente de la Champions europea en Sudamérica?",
+        "options": ["Libertadores de America","Recopa Sudamericana","Copa Sudamericana"],
+        "correctOption": "Libertadores de America",
+        "category": "Futbol"
+    },
+    {
+        "question": "El ganador de las competencias de selecciones continentales luego juega:",
+        "options": ["Copa confederaciones","Mundial de clubes","Copa del Mundo"],
+        "correctOption": "Copa confederaciones",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Cuándo tuvo lugar la primera Copa Mundial de Fútbol?",
+        "options": ["1930","1920","1934"],
+        "correctOption": "1930",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Qué animal fue el escogido para ilustrar la mascota del Mundial de Rusia?",
+        "options": ["Lobo","Perro","Gato"],
+        "correctOption": "Lobo",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Cuántos mundiales de fútbol ha ganado España?",
+        "options": ["1","3","0"],
+        "correctOption": "1",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Qué equipo ganó el mundial en 1986?",
+        "options": ["Argentina","Italia","Francia"],
+        "correctOption": "Argentina",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Qué equipo tiene más titulos de la Champions League?",
+        "options": ["Real Madrid","Liverpool","Manchester City"],
+        "correctOption": "Real Madrid",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Por qué lugar debe salir del terreno un jugador para ser sustituido?",
+        "options": ["Por el punto de la linea mas cercana donde se encuentre","Por la linea media del campo","Por donde le indique el arbitro"],
+        "correctOption": "Por el punto de la linea mas cercana donde se encuentre",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿De cuánto será la pausa para \"enfriamiento\" de los jugadores en partidos de muy alta temperatura?",
+        "options": ["De 90 segundos a 3 minutos","1 minuto","3 minutos"],
+        "correctOption": "De 90 segundos a 3 minutos",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Qué elegirá el capitán del equipo que gane el sorteo inicial, antes del inicio del partido?",
+        "options": ["El campo o el saque","Decidirá el arbitro lo que deberá elegir","El saque"],
+        "correctOption": "El campo o el saque",
+        "category": "Futbol"
+    },
+    {
+        "question": "¿Cuál es la condición reglamentaria para la posición del arquero al ejecutarse un penal?",
+        "options": ["Con un pie sobre la linea de meta, al menos","Con ambos pies sobre la linea de meta e inmovil","Con ambos pies sobre la linea de meta, pudiendo moverse"],
+        "correctOption": "Con un pie sobre la linea de meta, al menos",
+        "category": "Futbol"
+    }
+]
