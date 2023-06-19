@@ -4,8 +4,18 @@ import { futbolQuestions, nbaQuestions, uruguayQuestions, musicaQuestions } from
 
 
 const App = () => {
+  const triviaData = [
+    ...futbolQuestions,
+    ...nbaQuestions,
+    ...uruguayQuestions,
+    ...musicaQuestions
+    // Add more trivia questions here...
+  ];
+
   const [selectedCategory, setSelectedCategory] = useState('');
   const [categoryOptions, setCategoryOptions] = useState([]);
+  const [questions, setQuestions] = useState([]);
+  const [currentIndex, setCurrentIndex] = useState(0);
 
   function shuffleArray(array) {
     for (let i = array.length - 1; i > 0; i--) {
@@ -21,15 +31,18 @@ const App = () => {
 
   const handleCategoryChange = (category) => {
     setSelectedCategory(category);
+    setQuestions(triviaData.filter((trivia) => trivia.category === category));
+    setCurrentIndex(0);
   };
 
-  const triviaData = [
-    ...futbolQuestions,
-    ...nbaQuestions,
-    ...uruguayQuestions,
-    ...musicaQuestions
-    // Add more trivia questions here...
-  ];
+
+  const onNext = () => {
+    if (currentIndex + 1 < questions.length) {
+      setCurrentIndex(currentIndex + 1);
+    } else {
+      setCurrentIndex(null);
+    }
+  }
 
   return (
     <div style={styles.container}>
@@ -47,16 +60,16 @@ const App = () => {
       </div>
       {selectedCategory && (
         <div style={styles.cardContainer}>
-          {triviaData
-            .filter((trivia) => trivia.category === selectedCategory)
-            .map((trivia, index) => (
-              <TriviaCard
-                key={index}
-                question={trivia.question}
-                options={trivia.options}
-                correctOption={trivia.correctOption}
-              />
-            ))}
+          {currentIndex !== null ? (
+            <TriviaCard
+              key={currentIndex}
+              question={questions[currentIndex].question}
+              options={questions[currentIndex].options}
+              correctOption={questions[currentIndex].correctOption}
+              onNext={onNext}
+            />) : (
+              <p>Muchas gracias por jugar. Selecciona otra categoría!</p>
+            )}
         </div>
       )}
     </div>

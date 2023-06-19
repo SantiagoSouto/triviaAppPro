@@ -2,7 +2,12 @@ import React from 'react';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCheck, faTimes } from '@fortawesome/free-solid-svg-icons';
 
-const TriviaCard = ({ question, options, correctOption }) => {
+const TriviaCard = ({ question, options, correctOption, onNext }) => {
+
+  const handleNext = () => {
+    onNext();
+  };
+
   return (
     <div style={styles.card}>
       <h3 style={styles.question}>{question}</h3>
@@ -14,6 +19,7 @@ const TriviaCard = ({ question, options, correctOption }) => {
           </li>
         ))}
       </ul>
+      <button style={styles.nextButton} onClick={handleNext}>Next</button>
     </div>
   );
 };
@@ -46,6 +52,18 @@ const styles = {
       display: 'inline-flex',
       alignItems: 'center',
     },
+    nextButton: {
+      backgroundColor: '#4caf50',
+      color: 'white',
+      border: 'none',
+      padding: '10px 20px',
+      textAlign: 'center',
+      textDecoration: 'none',
+      display: 'inline-block',
+      fontSize: '16px',
+      cursor: 'pointer',
+      borderRadius: '4px',
+    }
   };
 
 export default TriviaCard;
