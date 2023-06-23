@@ -12,7 +12,7 @@ const RankingsTable = () => {
     }
 
     fetchRankings();
-  })
+  }, [])
 
   return (
     <table>
