@@ -1,9 +1,11 @@
 import React, {useState, useEffect} from 'react';
 import TriviaCard from './TriviaCard';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
+import RankingsPage from './RankingsPage';
 import { futbolQuestions, nbaQuestions, uruguayQuestions, musicaQuestions } from './utils/getTriviaQuestions'
 
 
-const App = () => {
+const HomePage = () => {
   const triviaData = [
     ...futbolQuestions,
     ...nbaQuestions,
@@ -73,6 +75,17 @@ const App = () => {
         </div>
       )}
     </div>
+  );
+};
+
+const App = () => {
+  return (
+    <Router>
+      <Routes>
+        <Route exact path="/" element={<HomePage />} />
+        <Route path="/rankings" element={<RankingsPage />} />
+      </Routes>
+    </Router>
   );
 };
 

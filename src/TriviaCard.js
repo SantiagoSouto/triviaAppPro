@@ -14,9 +14,9 @@ const TriviaCard = ({ question, options, correctOption, onNext }) => {
       <ul style={styles.options}>
         {options.map((option, index) => (
           <li key={index} style={styles.option}>
-            <span>{(index+1) + ')'}</span>
+            <span style={styles.optionSpan}>{(index+1) + ')'}</span>
             {option}
-            {(option === correctOption) ? <span className='correct'><FontAwesomeIcon icon={faCheck} style={styles.icon} /></span> : <span className='incorrect'><FontAwesomeIcon icon={faTimes} style={styles.icon} /></span>}
+            {(option === correctOption) ? <span style={styles.optionSpan} className='correct'><FontAwesomeIcon icon={faCheck} style={styles.icon} /></span> : <span style={styles.optionSpan} className='incorrect'><FontAwesomeIcon icon={faTimes} style={styles.icon} /></span>}
           </li>
         ))}
       </ul>
@@ -53,6 +53,13 @@ const styles = {
       borderRadius: '4px',
       cursor: 'pointer',
       backgroundColor: '#f5f5f5',
+      display: 'flex',
+      flexDirection: 'row',
+      justifyContent: 'space-between',
+    },
+    optionSpan: {
+      marginRight: '15px',
+      marginLeft: '15px'
     },
     icon: {
       marginRight: '8px',
