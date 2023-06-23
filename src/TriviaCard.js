@@ -14,8 +14,9 @@ const TriviaCard = ({ question, options, correctOption, onNext }) => {
       <ul style={styles.options}>
         {options.map((option, index) => (
           <li key={index} style={styles.option}>
-            {(option === correctOption) ? <span className='correct'><FontAwesomeIcon icon={faCheck} style={styles.icon} /></span> : <span className='incorrect'><FontAwesomeIcon icon={faTimes} style={styles.icon} /></span>}
+            <span>{(index+1) + ')'}</span>
             {option}
+            {(option === correctOption) ? <span className='correct'><FontAwesomeIcon icon={faCheck} style={styles.icon} /></span> : <span className='incorrect'><FontAwesomeIcon icon={faTimes} style={styles.icon} /></span>}
           </li>
         ))}
       </ul>
