@@ -5,9 +5,10 @@ const RankingsTable = () => {
 
   useEffect(() => {
     const fetchRankings = async () => {
-      const response = await fetch('https://rankingtrivianight.onrender.com');
-      const data = await response.json();
-      setRankings(data);
+      fetch('https://rankingtrivianight.onrender.com')
+      .then(response => {
+        response.json().then(data => setRankings(data))
+      })
     }
 
     fetchRankings();
