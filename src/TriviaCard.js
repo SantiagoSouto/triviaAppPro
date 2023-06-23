@@ -34,11 +34,13 @@ const styles = {
       padding: '16px',
       borderRadius: '8px',
       boxShadow: '0px 2px 4px rgba(0, 0, 0, 0.2)',
-      width: '50vw'
+      width: '75vw',
+      height: '50vh'
     },
     question: {
       marginBottom: '12px',
       fontWeight: 'bold',
+      height: '50%'
     },
     options: {
       listStyle: 'none',
